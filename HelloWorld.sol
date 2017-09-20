@@ -1,4 +1,4 @@
-contract helloWorld {
+contract HelloWorld {
 	string public message;
 	function helloWorld() {
 		message = "hello world";
